@@ -22,14 +22,17 @@
       ],
       "observations": [
         {
-          "at": "2026-06-21T03:50:29.658Z",
+          "date": "2026-06-21",
           "temperature": "25.1",
           "smell": "微酸",
           "fiber": "松散",
           "changedWater": "是",
-          "abnormal": false
+          "abnormal": false,
+          "updatedAt": "2026-06-21T03:50:29.658Z"
         }
-      ]
+      ],
+      "statusEvents": [],
+      "baseDays": 5
     }
   ]
 }
