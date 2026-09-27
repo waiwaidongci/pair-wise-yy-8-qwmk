@@ -5,6 +5,7 @@
       "source": "构树皮",
       "vat": "三号缸",
       "days": 6,
+      "baseDays": 5,
       "owner": "林素",
       "status": "发酵中",
       "logs": [
@@ -23,6 +24,7 @@
       "observations": [
         {
           "at": "2026-06-21T03:50:29.658Z",
+          "date": "2026-06-21",
           "temperature": "25.1",
           "smell": "微酸",
           "fiber": "松散",
